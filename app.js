@@ -1,3 +1,4 @@
+// USERS
 const users = [
   {
     user: "Chandler Bing",
